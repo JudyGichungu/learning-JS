@@ -27,3 +27,29 @@ function multiply(){
 
 var result = multiply()
 console.log(result)
+
+
+
+function divide(){
+	var numberOne =7;
+	var numberTwo =9;
+
+	var answer= numberOne/numberTwo;
+
+	return answer;
+}
+
+var result=divide()
+console.log(result)
+
+function subtraction(){
+	var numberOne =6;
+	var numberTwo =4;
+
+	var answer=numberOne - numberTwo;
+
+	return answer;
+} 
+
+var result=subtraction()
+console.log(result)
