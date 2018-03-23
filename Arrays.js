@@ -6,7 +6,7 @@ var shoeSize = [4, 6, 8, 3, 5, 7]
 
 console.log(student.length)
 
-for (var i = 0; i <=student.length; i++) {
-console.log(student [i] );
+for ( i=0;i<student.length;i++){
+	console.log(student [i] );
 }
 
